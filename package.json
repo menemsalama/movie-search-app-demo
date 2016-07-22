@@ -1,0 +1,24 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "movie search app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menemslama/mov-sea-app.git"
+  },
+  "author": "menem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menemslama/mov-sea-app/issues"
+  },
+  "homepage": "https://github.com/menemslama/mov-sea-app#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "request": "^2.73.0"
+  }
+}
